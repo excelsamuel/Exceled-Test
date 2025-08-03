@@ -6,4 +6,5 @@ Wednesday
 Thursday
 Friday
 Monday
-        
+Tuesday
+
