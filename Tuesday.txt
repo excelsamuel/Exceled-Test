@@ -3,4 +3,4 @@ Days of the week
 Monday
 Tuesday
 Wednesday
-Thursday
+
