@@ -1,4 +1,2 @@
 say all
 The
-
-jjj
